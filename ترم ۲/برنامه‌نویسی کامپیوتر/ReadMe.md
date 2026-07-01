@@ -20,3 +20,8 @@
         </tbody>
     </table>
 </div>
+
+
+<p align="center">
+<a href="https://github.com/seifiali84/CppTutorialBeginners">جزوه‌ی سی پلاس پلاس</a> همراه با مثال‌های کاربردی برای افرادی که تازه قصد ورود به برنامه‌نویسی دارند و با سی پلاس پلاس شروع کرده‌اند
+</p>
